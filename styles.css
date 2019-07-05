@@ -1,5 +1,11 @@
+body {
+  text-align: center;
+  background: #99c0ad;
+  font-family: sans-serif;
+  font-weight: 100;
+}
 
-  .timer {
+ .timer {
     font-family: 'Roboto Mono', monospace;
     color: rgb(3, 3, 3);
     display: inline-block;
@@ -12,12 +18,13 @@
     border-radius: 5px;
     background: #089145;
     display: inline-block;
+    
   }
   
   .value {
     padding: 35px;
     border-radius: 5px;
-    background: rgb(204, 216, 191);
+    background: rgb(193, 216, 168);
     display: inline-block;
 
   }
