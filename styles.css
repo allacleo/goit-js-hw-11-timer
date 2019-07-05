@@ -1,22 +1,15 @@
-body {
-    text-align: center;
-    background: #0b500e;
-    font-family: sans-serif;
-    font-weight: bold;
-  }
-  
+
   .timer {
-    font-family: sans-serif;
+    font-family: 'Roboto Mono', monospace;
     color: rgb(3, 3, 3);
     display: inline-block;
-    font-weight: 100;
     text-align: center;
     font-size: 50px;
   }
   
   .field {
-    padding: 30px;
-    border-radius: 6px;
+    padding: 25px;
+    border-radius: 5px;
     background: #089145;
     display: inline-block;
   }
@@ -30,7 +23,7 @@ body {
   }
   
   .label {
-    display: block;
+    display: block; 
     font-size: 24px;
     font-style: italic;
     font-weight: bold;
